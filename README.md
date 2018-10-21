@@ -4,7 +4,7 @@ Wireless sensor networks consisting of spatially distributed autonomous sensor n
 
 **Primary code is in APP file.**
 
-**Publication by Nature Journal:**
+**Publication in Nature Journal:**
 [Wireless whispering-gallery-mode sensor for thermal sensing and aerial mapping](https://www.nature.com/articles/s41377-018-0063-4)
 
 **Reported by WUSTL news:**
